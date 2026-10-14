@@ -8,6 +8,16 @@ The project focuses on developing a Large Language Model (LLM) for the Manipuri 
 
 
 ---
+---
+
+## 📄 Thesis Report
+
+The complete thesis report is available in:
+
+`Thesis B.Tech 2026_compressed.pdf`
+
+PPT Link : https://drive.google.com/file/d/1xjDFwAd6gjRvXzD3CVZHLl6MwbT0S-5g/view?usp=sharing
+---
 
 ## 🎯 Objectives
 
