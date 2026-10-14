@@ -5,6 +5,15 @@
 This repository contains my B.Tech thesis submitted to the Department of Computer Science and Engineering, National Institute of Technology (NIT) Manipur.
 
 The project focuses on developing a Large Language Model (LLM) for the Manipuri language written in its native **Meitei Mayek** script. Existing NLP research for Manipuri has largely focused on translation tasks and often relies on the Bengali script. This work aims to bridge that gap by creating a generative language model specifically for Meitei Mayek.
+---
+
+## 📄 Thesis Report
+
+The complete thesis report is available in:
+
+`Thesis B.Tech 2026_compressed.pdf`
+
+PPT Link : https://drive.google.com/file/d/1xjDFwAd6gjRvXzD3CVZHLl6MwbT0S-5g/view?usp=sharing
 
 ---
 
@@ -74,13 +83,6 @@ The collected data was cleaned, normalized, converted from legacy fonts, and mer
 * Fine-tuned a large language model for a low-resource indigenous language.
 * Established a reproducible pipeline for future research in low-resource NLP.
 
----
-
-## 📄 Thesis Report
-
-The complete thesis report is available in:
-
-`Thesis B.Tech 2026_compressed.pdf`
 
 ---
 
